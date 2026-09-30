@@ -1,4 +1,3 @@
-
 #include <fcntl.h>
 #include <linux/spi/spidev.h>
 #include <signal.h>
